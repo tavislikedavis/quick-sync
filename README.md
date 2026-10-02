@@ -1,5 +1,7 @@
 # Quick Sync?
 
+<p align="center"><img src="docs/quick-sync.png" alt="Quick Sync? title screen" width="480"></p>
+
 A retro boss-fight shmup built with [Pyxel](https://github.com/kitao/pyxel) 2.9.9.
 You're a dev trying to ship. Your manager has *just one quick thing*.
 
